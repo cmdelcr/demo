@@ -1,3 +1,5 @@
 this is a test for git
 
 test: modifying a commited file
+
+This is just an update, on a branch
