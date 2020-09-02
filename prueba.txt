@@ -2,4 +2,4 @@ this is a test for git
 
 test: modifying a commited file
 
-I hope this is not such a problem
+This is bound to cause trouble!
