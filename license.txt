@@ -1,3 +1,3 @@
 #LICENSE
 
-this is the license example 
+this is the license example 3.0 
